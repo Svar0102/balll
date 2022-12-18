@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../C20-Student-boilerplate-code-main"
+		},
+		{
+			"path": "../Pro_c21_SA-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MatterJSBoilerPlate-main"
+	}
+}
